@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\bin\Debug\net7.0\TriangleTypeIdentifier.exe
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\bin\Debug\net7.0\TriangleTypeIdentifier.deps.json
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\bin\Debug\net7.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\bin\Debug\net7.0\TriangleTypeIdentifier.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\bin\Debug\net7.0\TriangleTypeIdentifier.pdb
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.pdb
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\TriangleTypeIdentifier\obj\Debug\net7.0\ref\TriangleTypeIdentifier.dll
