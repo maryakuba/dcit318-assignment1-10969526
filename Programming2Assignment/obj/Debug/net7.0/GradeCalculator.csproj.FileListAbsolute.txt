@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\bin\Debug\net7.0\GradeCalculator.exe
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\bin\Debug\net7.0\GradeCalculator.deps.json
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\bin\Debug\net7.0\GradeCalculator.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\bin\Debug\net7.0\GradeCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\bin\Debug\net7.0\GradeCalculator.pdb
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\refint\GradeCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.pdb
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318\Programming2Assignment\Programming2Assignment\obj\Debug\net7.0\ref\GradeCalculator.dll
